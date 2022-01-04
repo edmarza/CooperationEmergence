@@ -3,6 +3,9 @@
 Created on Sun Jan  2 13:01:20 2022
 
 @author: qed_g
+
+Version 1.0.0
+
 """
 
 from random import sample
